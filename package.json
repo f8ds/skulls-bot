@@ -1,10 +1,10 @@
 {
   "name": "skulls-bot",
   "version": "1.0.0",
-  "main": "final-index.js",
+  "main": "final-index-v4.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node final-index.js"
+    "start": "node final-index-v4.js"
   },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.80",
