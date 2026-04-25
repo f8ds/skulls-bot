@@ -1,1 +1,15 @@
-
+{
+  "name": "skulls-bot",
+  "version": "1.0.0",
+  "main": "final-index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node final-index.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "discord.js": "^14.16.3",
+    "ms": "^2.1.3",
+    "quick.db": "^9.1.7"
+  }
+}
